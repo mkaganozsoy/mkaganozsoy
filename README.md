@@ -1,0 +1,4 @@
+- Hi, I’m @mkaganozsoy, my name is Mustafa Kağan Özsoy
+- I’m interested in computer science
+- I’m a freshman at Bilkent University
+- I’m currently learning programming
